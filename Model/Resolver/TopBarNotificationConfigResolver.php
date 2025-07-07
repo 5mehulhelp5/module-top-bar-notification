@@ -41,8 +41,8 @@ class TopBarNotificationConfigResolver implements ResolverInterface
         Field $field,
         $context,
         ResolveInfo $info,
-        array $value = null,
-        array $args = null
+        ?array $value = null,
+        ?array $args = null
     ): array {
         return [
             'enabled' => $this->notification->isEnabled(),
