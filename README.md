@@ -62,7 +62,7 @@ Insert page(s) to show/hide this notification
 
 # Compatibility
 
-Tested with Magento Open Source 2.4.4 - 2.4.7, but will probably work with older Magento 2.X versions and Magento Commerce
+Tested with Magento Open Source 2.4.4 - 2.4.9, but will probably work with older Magento 2.X versions and Magento Commerce
 
 # About developer
 
